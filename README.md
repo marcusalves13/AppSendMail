@@ -5,7 +5,7 @@ Material desenvolvido durante os estudos do curso Desenvolvimento Web completo 2
 </h4>
 <h4 align="center">
 <p>Aplicação de envio de e-mail's, utilizando a biblioteca PHPMailer. Para utilização da aplicação e necessario configurar conta de e-mail a ser utilizada no script processa-envio.php:</p> 
-<p>$mail->Username = 'seuEmail6@gmail.com';</p> 
+<p >$mail->Username = 'seuEmail6@gmail.com';</p> 
 <p>$mail->Password = 'suaSenha';  </p> 
 <p>$mail->setFrom('SeuEmail', 'NomeExibidoRemetente');</p> 
 </h4>
